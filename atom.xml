@@ -4,7 +4,7 @@
   <title><![CDATA[飞呀飞]]></title>
   <link href="http://ddyyff.github.io/atom.xml" rel="self"/>
   <link href="http://ddyyff.github.io/"/>
-  <updated>2014-06-20T11:35:27+08:00</updated>
+  <updated>2014-06-20T11:43:45+08:00</updated>
   <id>http://ddyyff.github.io/</id>
   <author>
     <name><![CDATA[飞呀飞]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[‘哟吼’]]></title>
+    <link href="http://ddyyff.github.io/blog/2014/06/20/yo-hou/"/>
+    <updated>2014-06-20T11:40:16+08:00</updated>
+    <id>http://ddyyff.github.io/blog/2014/06/20/yo-hou</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
